@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://cwmkt.com.br/wp-content/uploads/2023/08/logo-github-cwmkt.svg" alt="DispZap Whats Marketing" width="240" />
+<img src="https://github.com/cwmkt/listmonk/assets/34479816/343494e4-5da4-45e8-b39e-37aa81f37680" alt="DispZap Whats Marketing" width="240" />
 <p align="center">Seja bem-vindo ao Guia de Instalação listmonk 🚀</p>
 </p>
   
@@ -11,7 +11,7 @@
 
 <hr />
 
-<img src="https://github.com/cwmkt/listmonk/assets/34479816/2432e65f-71c2-465b-9498-df7e30e6c1c7" alt="WhatsAPP-logo" />
+<img src="https://github.com/cwmkt/listmonk/assets/34479816/2432e65f-71c2-465b-9498-df7e30e6c1c7" alt="WhatsAPP-logo" /></br>
 
 **listmonk** is a self-hosted, high performance mailing list and newsletter manager. It comes as a standalone binary and the only dependency is a Postgres database.
 
@@ -21,7 +21,7 @@
 sudo apt update && apt upgrade -y
 ```
 
-### Instale o Docker-compose V2
+### Instale o Docker-compose v2
 
 ```bash
 sudo apt-get install docker-compose-v2
