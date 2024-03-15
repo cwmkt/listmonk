@@ -11,7 +11,8 @@
 
 <hr />
 <hr />
-![image](https://github.com/cwmkt/listmonk/assets/34479816/2432e65f-71c2-465b-9498-df7e30e6c1c7)
+
+<img src="https://github.com/cwmkt/listmonk/assets/34479816/2432e65f-71c2-465b-9498-df7e30e6c1c7" alt="WhatsAPP-logo" />
 
 listmonk is a self-hosted, high performance mailing list and newsletter manager. It comes as a standalone binary and the only dependency is a Postgres database.
 
