@@ -15,8 +15,6 @@
 
 listmonk is a self-hosted, high performance mailing list and newsletter manager. It comes as a standalone binary and the only dependency is a Postgres database.
 
-<summary>Manual de Instalação listmonk</summary>
-
 ### Atualize os pacotes de sua máquina
 
 ```bash
