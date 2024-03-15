@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://cwmkt.com.br/wp-content/uploads/2023/08/logo-github-cwmkt.svg" alt="DispZap Whats Marketing" width="240" />
-<p align="center">Seja bem-vindo ao Guia de Instalação listmonk Newslleter Mail 🚀</p>
+<p align="center">Seja bem-vindo ao Guia de Instalação listmonk 🚀</p>
 </p>
   
 <p align="center">
@@ -10,11 +10,10 @@
 </p>
 
 <hr />
-<hr />
 
 <img src="https://github.com/cwmkt/listmonk/assets/34479816/2432e65f-71c2-465b-9498-df7e30e6c1c7" alt="WhatsAPP-logo" />
 
-listmonk is a self-hosted, high performance mailing list and newsletter manager. It comes as a standalone binary and the only dependency is a Postgres database.
+**listmonk** is a self-hosted, high performance mailing list and newsletter manager. It comes as a standalone binary and the only dependency is a Postgres database.
 
 ### Atualize os pacotes de sua máquina
 
