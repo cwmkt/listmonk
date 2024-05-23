@@ -3,10 +3,8 @@
 <p align="center">Seja bem-vindo ao Guia de Instalação listmonk 🚀</p>
 </p>
   
-<p align="center">
-<img src="https://whatsapp.com/favicon.ico" alt="WhatsAPP-logo" width="32" />
-<span>Grupo WhatsaAPP: </span>
-<a href="https://chat.whatsapp.com/CEfmCTvO2231xLMVo4kqyV" target="_blank">Grupo</a>
+<p align="center"> 
+<a href="https://hubconnect.top" target="_blank">👉 Participe da Comunidade HubConnect 👈</a>
 </p>
 
 <img src="https://github.com/cwmkt/listmonk/assets/34479816/2432e65f-71c2-465b-9498-df7e30e6c1c7" alt="WhatsAPP-logo" /></br>
